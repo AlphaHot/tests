@@ -1,14 +1,43 @@
-<style type="text/css">
-h1 {color:red;}
+#tests
 
-p {color:blue;}
-</style>
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th colspan="2">Telephone</th>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>55577854</td>
+    <td>55577855</td>
+  </tr>
+</table>
 
-<style>h1{color:blue;}</style>
+<table style="width:100%">
+  <tr>
+    <th>Name:</th>
+    <td>Bill Gates</td>
+  </tr>
+  <tr style="color:red">
+    <th rowspan="2" style="color:red">Telephone:</th>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>55577855</td>
+  </tr>
+</table>
 
-
-<h1>kjdihiy</h1>
-
-uiywgiyofhoihfhuae\
-aiwoeoiuahowiehf aohefohwfohiu
-7y2365765362872
+<table style="width:100%">
+  <caption>Monthly savings</caption>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$50</td>
+  </tr>
+</table>
