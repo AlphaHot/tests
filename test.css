@@ -1,0 +1,8 @@
+h1 {
+	color: DeepSkyBlue;
+}
+h1, h2, h3 {
+	color: DeepSkyBlue;
+	background-color: #000;
+	margin: 10px 5px;
+}
